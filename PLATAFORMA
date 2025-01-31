@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>FizzBology</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #000;
+            color: #fff;
+        }
+        .container {
+            display: flex;
+            justify-content: space-around;
+            padding: 20px;
+        }
+        .section {
+            width: 30%;
+            padding: 20px;
+            border: 2px solid #fff;
+        }
+    </style>
+</head>
+<body>
+    <h1>FizzBology</h1>
+    <div class="container">
+        <div class="section">
+            <h2>Moda</h2>
+            <p>Venta de productos exclusivos de FizzBology.</p>
+        </div>
+        <div class="section">
+            <h2>Danza</h2>
+            <p>Contenido audiovisual y base de datos de movimientos.</p>
+        </div>
+        <div class="section">
+            <h2>Educación</h2>
+            <p>Workshops, formación y teoría de los movimientos.</p>
+        </div>
+    </div>
+</body>
+</html>
